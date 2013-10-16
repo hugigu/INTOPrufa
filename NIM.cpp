@@ -32,7 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 
-cout << "My name is Hugi Gudmundsson\n";
+cout << "Hello, my name is Hugi Gudmundsson\n";
 
 	int val;
 	do
