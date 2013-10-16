@@ -31,6 +31,9 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+
+cout << "My name is Hugi Gudmundsson\n";
+
 	int val;
 	do
 	{
